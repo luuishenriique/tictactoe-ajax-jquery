@@ -21,3 +21,10 @@ table {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
+
+#dashboard tr td:hover {
+    background: gray;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
